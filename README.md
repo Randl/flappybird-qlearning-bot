@@ -1,6 +1,6 @@
 Flappy Bird Bot using Reinforcement Learning in Python
 ===================
-![4000+ scored](http://i.imgur.com/ZEB1ivb.png)
+![4000+ scored](http://i.imgur.com/vCS6NaO.jpg)
 
 A Flappy Bird bot in Python, that learns from each game played via Q-Learning.
 
